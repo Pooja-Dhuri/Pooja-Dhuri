@@ -64,8 +64,8 @@ I love the entire process of developing creative websites.Reusability is key in 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PoojaD12345)](https://github.com/PoojaD12345)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pooja-Dhuri)](https://github.com/Pooja-Dhuri)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaD12345&layout=compact)](https://github.com/PoojaD12345)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja-Dhuri&layout=compact)](https://github.com/Pooja-Dhuri)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=PoojaD12345.PoojaD12345)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Pooja-Dhuri.Pooja-Dhuri)](https://github.com/Pooja-Dhuri/)
