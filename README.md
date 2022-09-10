@@ -12,7 +12,8 @@ Hi there, I'm <a href="https://pooja-dhuri-portfolio.netlify.app/" target="_blan
 I'm a Front-End Web Developer 💻!
 </h2> 
 
-I love the entire process of developing creative websites.Reusability is key in reducing bugs and coding quickly. The more I use a piece of code, the more confident and familiar I become with it, which in turn significantly speeds up my development time.
+n Aspiring Front-End Developer Proficient in HTML, CSS, JavaScript,
+React. Passionate about usability and possess working knowledge of Adobe Photoshop & Sketch. Looking forward to working in a product-based company.
 
 ### 🤝 Connect with me:
 
