@@ -12,7 +12,7 @@ Hi there, I'm <a href="https://pooja-dhuri-portfolio.netlify.app/" target="_blan
 I'm a Front-End Web Developer 💻!
 </h2> 
 
-n Aspiring Front-End Developer Proficient in HTML, CSS, JavaScript,
+An Aspiring Front-End Developer Proficient in HTML, CSS, JavaScript,
 React. Passionate about usability and possess working knowledge of Adobe Photoshop & Sketch. Looking forward to working in a product-based company.
 
 ### 🤝 Connect with me:
