@@ -9,11 +9,10 @@ Hi there, I'm <a href="https://pooja-dhuri-portfolio.netlify.app/" target="_blan
 </h3>
 
 <h2 align="center">
-I'm a Front-End Web Developer 💻!
+I'm a Full-Stack Developer 💻!
 </h2> 
 
-An Aspiring Front-End Developer Proficient in HTML, CSS, JavaScript,
-React. Passionate about usability and possess working knowledge of Adobe Photoshop & Sketch. Looking forward to working in a product-based company.
+As a MERN stack developer Proficient in developing full-stack web applications using MongoDB, ExpressJS, ReactJS, and NodeJS. Have worked on various projects that involve designing and implementing complex software solutions to meet business requirements.
 
 ### 🤝 Connect with me:
 
@@ -34,7 +33,7 @@ React. Passionate about usability and possess working knowledge of Adobe Photosh
 ## 🌱 I'm currently learning
 
 - React Redux
-- Cypress
+- tailwind css
 - Styled Components  
 
 ## 💼 Technical Skills
