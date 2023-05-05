@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://pooja-dhuri-portfolio.netlify.app/" target="_blank" rel="noreferrer">Pooja</a> 👋
+Hi there, I'm <a href="https://poojadhuriportfolio.vercel.app" target="_blank" rel="noreferrer">Pooja</a> 👋
 </h3>
 
 <h2 align="center">
