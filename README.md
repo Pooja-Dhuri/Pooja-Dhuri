@@ -12,7 +12,10 @@ Hi there, I'm <a href="https://poojadhuriportfolio.vercel.app" target="_blank" r
 I'm a Full-Stack Developer 💻!
 </h2> 
 
-As a MERN stack developer Proficient in developing full-stack web applications using MongoDB, ExpressJS, ReactJS, and NodeJS. Have worked on various projects that involve designing and implementing complex software solutions to meet business requirements.
+MERN Stack Developer proficient in developing web applications using
+MongoDB, ExpressJS, ReactJS, and NodeJS. Have worked on various projects
+that involve designing and implementing complex software solutions to
+meet business requirements.
 
 ### 🤝 Connect with me:
 
