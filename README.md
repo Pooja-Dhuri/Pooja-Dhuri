@@ -1,7 +1,7 @@
 <!-- <a href="https://im.ge/i/Osi5w6"><img src="https://i.im.ge/2022/08/18/Osi5w6.github-header-image-1.png" alt="Github-header-image (1)" border="0"></a> -->
 
 <p align="center">
-  <a href="https://im.ge/i/Osi5w6" target="_blank" rel="noreferrer"><img src="[https://resumespice.com/wp-content/uploads/2021/03/9.png](https://im.ge/i/cWHajx)" alt="my banner"width="100%"></a>
+  <a href="https://im.ge/i/Osi5w6" target="_blank" rel="noreferrer"><img src="https://i.im.ge/2024/02/14/cWH0s6.AdobeStock-220900672-Preview.jpg" alt="my banner"width="100%"></a>
 </p>
 
 <h3 align="center">
