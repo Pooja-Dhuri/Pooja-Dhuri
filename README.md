@@ -1,7 +1,7 @@
 <!-- <a href="https://im.ge/i/Osi5w6"><img src="https://i.im.ge/2022/08/18/Osi5w6.github-header-image-1.png" alt="Github-header-image (1)" border="0"></a> -->
 
 <p align="center">
-<a href="https://ibb.co/c1YNXpN"><img src="https://i.ibb.co/R9jC4MC/Adobe-Stock-220900672-Preview-transformed.jpg" alt="Adobe-Stock-220900672-Preview-transformed" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+<a href="https://ibb.co/c1YNXpN"><img src="https://i.ibb.co/R9jC4MC/Adobe-Stock-220900672-Preview-transformed.jpg" alt="Adobe-Stock-220900672-Preview-transformed" border="0" w="100"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 </p>
 
 <h3 align="center">
