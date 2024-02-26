@@ -9,13 +9,12 @@ Hi there, I'm <a href="https://poojadhuriportfolio.vercel.app" target="_blank" r
 </h3>
 
 <h2 align="center">
-I'm a Frontend Web Developer 💻!
+I'm a Frontend Developer 💻!
 </h2> 
 
-MERN Stack Developer proficient in developing web applications using
-MongoDB, ExpressJS, ReactJS, and NodeJS. Have worked on various projects
-that involve designing and implementing complex software solutions to
-meet business requirements.
+As a Front-End developer Proficient in developing Front-End web applications using ReactJS, 
+and NodeJS. Have worked on various projects that involve designing and 
+implementing complex software solutions to meet business requirements.
 
 ### 🤝 Connect with me:
 
